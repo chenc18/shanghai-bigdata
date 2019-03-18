@@ -1,0 +1,5 @@
+163.com~auto.163.com~~~~0
+qq.com~auto.qq.com~~~~0
+qq.com~ucar.qq.com~~~~0
+qq.com~wecar.qq.com~~~~0
+sina.com.cn~auto.sina.com.cn~~~~0
